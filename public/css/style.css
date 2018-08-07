@@ -1,0 +1,49 @@
+
+body {
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(90deg, #1c92d2 0%, #f2fcfe 100%);
+    font-size: 48px;
+    font-weight: bold;
+    border: none;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+        border: none;
+
+}
+
+input[type="text"] {
+    width: 75%;
+    height: 2em;
+    font-size: 25px;
+    text-align: center;
+        border: none;
+
+}
+
+.button {
+    width: 75%;
+    height: 1.5em;
+    font-size: 25px;
+        border: none;
+
+}
+
+.container {
+    margin: 15% auto;
+    background: clear;
+    text-align: center;
+    width: 100%;
+        border: none;
+
+}
+
+p {
+    color: black;
+        border: none;
+
+}
